@@ -1,2 +1,2 @@
-# movieDapp
+# votingDapp
 First Dapp App
